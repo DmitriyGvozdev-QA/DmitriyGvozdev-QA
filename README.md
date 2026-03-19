@@ -7,7 +7,7 @@
 * 📑 Опыт и навыки в **[резюме]()**
 * 📞 Мои контакты: **[телеграм](https://t.me/d_s_gv)**, **[почта](ds.gvozdev@gmail.com)**
 
-##### Python QA Auto
+#### Python QA Auto
 #### Мой стек
 | Python | PyCharm | Git | Pytest | Requests | Selenium | Allure Report | Docker | Gitlab CI | PostgreSQL |
 |:------:|:-------:|:---:|:------:|:--------:|:--------:|:-------------:|:------:|:---------:|:----------:|
