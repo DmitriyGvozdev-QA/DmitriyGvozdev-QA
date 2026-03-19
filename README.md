@@ -17,7 +17,7 @@
 
 | API My Shows Rating | API Битва покемонов | UI Битва покемонов |
 |:-------------------:|:-------------------:|:------------------:|
-| [my-shows-api-tests](https://github.com/yourusername/my-shows-api-tests) | [Ссылка на проект](https://github.com/yourusername/pokemon-api) | [Ссылка на проект](https://github.com/yourusername/pokemon-ui) |
+| [my-shows-api-tests](https://github.com/DmitriyGvozdev-QA/my-shows-api-tests) | [Ссылка на проект](https://github.com/yourusername/pokemon-api) | [Ссылка на проект](https://github.com/yourusername/pokemon-ui) |
 | Pytest, Requests, Docker | Pytest, Requests, Gitlab CI | Selenium, Gitlab CI |
 
 ## Обучение
